@@ -1,1 +1,1 @@
-# comp367-webapp-q3
+Update README for webhook trigger
